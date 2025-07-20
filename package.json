@@ -1,4 +1,6 @@
 {
+  "packageManager": "pnpm@8.6.0",
+
   "name": "nuxt-app",
   "private": true,
   "type": "module",
