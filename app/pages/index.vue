@@ -8,7 +8,6 @@ const githubUrl = 'https://github.com/suiluj482'
   <div class="min-h-screen bg-white dark:bg-gray-900 flex flex-col items-center pt-20">
     <UCard class="p-8 text-center w-full max-w-md shadow-lg">
       <NuxtPicture
-        format="webp,avif"
         src="/images/js.png"
         alt="Logo"
         class="mx-auto mb-4 w-20 h-20 rounded-full shadow-md"
