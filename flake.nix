@@ -11,6 +11,8 @@
         packages = with pkgs; [
             nodejs_22
             pnpm
+
+            act
         ];
       };
     });
